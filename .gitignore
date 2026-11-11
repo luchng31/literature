@@ -1,0 +1,13 @@
+# 第三方克隆仓库与大数据集（公开可重新下载，不入备份库）
+07_评测数据与代码/CAIBench/
+07_评测数据与代码/CyberGym/
+07_评测数据与代码/SecRL/
+07_评测数据与代码/DefenderBench/
+07_评测数据与代码/cyber_defense_benchmark/
+
+# 杂物
+__pycache__/
+*.py[cod]
+.DS_Store
+07_评测数据与代码/ACESEvals/
+09_产品与行业资料/repos/
